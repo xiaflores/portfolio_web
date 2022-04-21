@@ -169,7 +169,7 @@ user.fb123
 .contact__button
 mailto:examplemail@correo.com
 
-https://api.whatsapp.com/send?phone=51123456789&text=Hello, more information!
+https://api.whatsapp.com/send?phone=67248895&text=Hello, more information!
 
 https://m.me/bedimcode
 
